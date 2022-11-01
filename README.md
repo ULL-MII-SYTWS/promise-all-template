@@ -1,4 +1,4 @@
-# Descripción de la Práctica p10-t2-promise-all
+# Descripción de la Práctica promise-all
 
 Given an array of promises, `Promise.all` returns a promise that waits for all of the promises in the array to finish. 
 It then succeeds, yielding an array of result values. 
